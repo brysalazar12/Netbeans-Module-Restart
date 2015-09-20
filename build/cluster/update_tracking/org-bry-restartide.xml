@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.bry.restartide">
+    <module_version install_time="1442737881562" last="true" origin="installer" specification_version="1.0">
+        <file crc="887039700" name="config/Modules/org-bry-restartide.xml"/>
+        <file crc="2924717084" name="modules/org-bry-restartide.jar"/>
+    </module_version>
+</module>
